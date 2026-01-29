@@ -156,3 +156,7 @@ app.add_handler(MessageHandler(filters.TEXT & filters.USER, enviar_pronostico))
 
 # Ejecutar bot
 app.run_polling()
+PS C:\Users\USER\OneDrive\Apps> & C:/Users/USER/OneDrive/Apps/.venv/Scripts/Activate.ps1                                      
+(.venv) PS C:\Users\USER\OneDrive\Apps> & C:/Users/USER/OneDrive/Apps/.venv/Scripts/python.exe "c:/Users/USER/OneDrive/Apps/bot de telegram.py.py"
+
+
