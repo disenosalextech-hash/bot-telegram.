@@ -9,4 +9,5 @@ pillow==12.1.0
 pytesseract==0.3.13
 python-telegram-bot==22.6
 
-vscode-terminal:/7d4dbf9ab6cea8a0bc197663e539579a/7
+
+
